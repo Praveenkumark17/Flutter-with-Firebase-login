@@ -74,3 +74,20 @@ This Flutter project showcases the following Firebase services:
 1. Flutter documentation: [https://flutter.dev/docs](https://flutter.dev/docs)
 
 2. Firebase documentation: [https://firebase.google.com/docs](https://firebase.google.com/docs)
+
+# App Screen
+
+## Sign in and Sign up page
+
+![Screenshot_2023-05-17-16-15-46-468_com example dungen](https://github.com/Praveenkumark17/Flutter-with-Firebase-login/assets/95238197/bfa8b6d1-2f9e-47e9-a3c6-233180b15bfd)
+![Screenshot_2023-05-17-16-15-35-852_com example dungen](https://github.com/Praveenkumark17/Flutter-with-Firebase-login/assets/95238197/dd1d077a-effd-4eca-98b0-c6c8187f8b16)
+
+## Home Page
+
+![Screenshot_2023-05-17-16-16-15-883_com example dungen](https://github.com/Praveenkumark17/Flutter-with-Firebase-login/assets/95238197/e15e25d8-6bc0-42ad-ba8f-cf6d0984f04c)
+
+## Drawer page with Current user name and email
+
+
+
+## Update page
