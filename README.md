@@ -40,11 +40,6 @@ This Flutter project showcases the following Firebase services:
 - Includes CRUD (Create, Read, Update, Delete) operations on Firestore documents and collections.
 - Utilizes Firestore queries to retrieve specific data.
 
-### Firebase Cloud Messaging
-
-- Includes push notification support using Firebase Cloud Messaging.
-- Sends notifications to users on specific events or triggers.
-- Handles notification display and user interaction.
 
 ## Setup Instructions
 
@@ -56,3 +51,26 @@ This Flutter project showcases the following Firebase services:
 
    ```bash
    flutter pub get
+   
+4. Connect your physical device or start an emulator.
+
+5. Run the following command to launch the Flutter app on your device or emulator: 
+   
+   ```bash
+   flutter run
+   
+## Firebase Configuration
+
+1. Create a new Firebase project in the Firebase console at [https://console.firebase.google.com](https://console.firebase.google.com)
+
+2. Follow the Firebase console instructions to add your Flutter app to the Firebase project.
+
+3. Download the `google-services.json` file from the Firebase console for your Flutter app.
+
+4. Place the `google-services.json` file in the `android/app` directory of your Flutter project.
+
+## Additional Resources
+
+1. Flutter documentation: [https://flutter.dev/docs](https://flutter.dev/docs)
+
+2. Firebase documentation: [https://firebase.google.com/docs](https://firebase.google.com/docs)
