@@ -96,7 +96,7 @@ class Home extends StatelessWidget {
                 child: Column(children: [
                   UserAccountsDrawerHeader(
                     decoration: BoxDecoration(color: Colors.green[400]),
-                    accountName: Text("praveen"),
+                    accountName: Text(userData?.name ?? ""),
                     accountEmail: Text(Email!),
                     currentAccountPicture:
                         CircleAvatar(backgroundColor: Colors.green[50]),
