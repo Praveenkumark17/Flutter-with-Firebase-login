@@ -1,4 +1,4 @@
-# dungen
+# Flutter with Firebase (App name: Dungen)
 
 A new Flutter project.
 
